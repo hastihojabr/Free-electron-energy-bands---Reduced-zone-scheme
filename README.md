@@ -1,5 +1,5 @@
 # Free electron energy bands - Reduced Zone Scheme
-Free electron energy bands of an fcc, bcc and sc crystal lattice in the approximation. of an empty lattice for different directions.
+Free electron energy bands of fcc, bcc and sc crystal lattice in the approximation of an empty lattice for different directions.
 
 ### FCC - ky=kz=0 and kx= mu 2pi/a for mu between 0 and 1
 
