@@ -24,6 +24,6 @@ creen Shot 1401-12-12 at 11 44 11 PM" src="https://user-images.githubusercontent
 
 ![fcc_bands](https://user-images.githubusercontent.com/89476798/224403724-f4cc7d3c-234a-47c4-926a-332f2a110fb2.png)
 
-## BCC - Bands for the path $\mathbf{H}-\mathbf{\Gamma}-\mathbf{P}-\mathbf{N}-\mathbf{\Gamma}-\mathbf{H}$ 
+## BCC - Bands for the path $\mathbf{H}-\mathbf{\Gamma}-\mathbf{P}-\mathbf{N}-\mathbf{\Gamma}-\mathbf{H}-\mathbf{P}$ 
 
 ![bcc_bands](https://user-images.githubusercontent.com/89476798/224403937-a43a9ae9-dea4-424f-b372-e578f4832be0.png)
