@@ -11,10 +11,8 @@ By using the appropriate $\mathbf{K}$ for the lattice and putting different valu
 In the following calculation we set $2\pi/a$ and $\hbar^2/2m$ to one. The simulation was done in Python 3.8.5 using libraries such as mathplotlib, numpy, pandas and itertools.
 
 
-For trying different miller indices in Eq.4 we first calculated different family of directions using permutations. For the following plots miller indices in the families of <000>, <100>, <110>, <111>, <200> and <220> was used. A table containing energy of the band and its corresponding indices is given. The color in each row of indices corresponds to the line in the plot.
+For putting different miller indices in Eq.4 we must first calculate different family of directions using permutations from itertools library. For the following plots, miller indices in the families of <000>, <100>, <110>, <111>, <200> and <220> was used. A table containing band energy and its corresponding indices is given. The color in each row of the table connects the line in the plot with its corresponding index.
 
-
-creen Shot 1401-12-12 at 11 44 11 PM" src="https://user-images.githubusercontent.com/89476798/222819022-c878fa45-b2f1-4680-bef9-4c9c8b21cc6e.png">
 
 ### SC - ky=kz=0 , kx= mu 2pi/a for mu between -1/2 and 1/2
 
